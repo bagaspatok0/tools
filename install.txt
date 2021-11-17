@@ -1,2 +1,2 @@
-pip install art
-pip install googletrans
+art
+googletrans
